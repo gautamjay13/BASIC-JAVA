@@ -10,12 +10,12 @@ public class threedigit {
             System.out.println("the number is three digit : " + n);
         }
         else if (n<100) {
-            System.out.println("the number is smaller than 100 :" + n);
+            System.out.println("the number is smaller than 100 : " + n);
 
         }
         else
         {
-            System.out.println("the number is greater than 1000 :" + n);
+            System.out.println("the number is greater than 1000 : " + n);
         }
     }
 }
