@@ -18,7 +18,7 @@ public class palindrome {
              x/=10 ;
         }
         if(r==original){
-            System.out.println("helloe");
+            System.out.println("hello");
         }
         else 
         System.out.println("hi");

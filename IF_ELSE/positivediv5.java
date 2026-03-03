@@ -1,4 +1,4 @@
-package IF_ELSE;
+
 import java.util.Scanner;
 
 public class positivediv5 {
