@@ -1,4 +1,4 @@
-package LOOPS;
+
 
 public class printnubers {
     public static void main(String[] args) {

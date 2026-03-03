@@ -1,4 +1,4 @@
-package LOOPS;
+
 
 public class decrement {
     public static void main(String[] args) {
