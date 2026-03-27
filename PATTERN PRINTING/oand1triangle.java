@@ -24,7 +24,8 @@ public class oand1triangle {
                     System.out.print( 0 +" ");
                   }
                 }
-             }System.out.println();
+             }
+             System.out.println();
             }
             
         }
