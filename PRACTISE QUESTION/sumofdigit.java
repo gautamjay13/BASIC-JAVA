@@ -4,16 +4,17 @@ public class sumofdigit {
     public static void main(String[] args) {
         System.out.println("enter your nnumber");
         Scanner sc = new Scanner(System.in);
-        int sum =0 ; 
         int n = sc.nextInt() ;
-        for (int i = 0; i < n; i++) {
-          int last_digit = n % 10 ;
-         
-        sum = sum + last_digit ;  
-        }
-        int last_digit = n % 10 ;
+        int sum =0 ;
+        int r = 0 ; 
+        while (n!=0) {
+             int lastdigit = n % 10 ; 
+              
+              r += lastdigit ;
+              n = n / 10 ;
+      
         
-        
-        System.out.println(sum);
     }
+    System.out.println("Sum of digits: " + r);
+}
 }
