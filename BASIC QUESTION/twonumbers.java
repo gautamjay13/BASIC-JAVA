@@ -20,7 +20,7 @@ public class twonumbers {
         System.out.println(div);
         System.out.println(mod);
         
-
+        sc.close();
 
     }
 }

@@ -9,6 +9,6 @@ public class moduloop {
     int b = sc.nextInt() ;
     int r= a % b ;
     System.out.println(r);
-
+      sc.close();
    } 
 }
