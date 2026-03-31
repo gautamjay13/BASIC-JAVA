@@ -9,7 +9,8 @@ public class absolutevalue {
        if (n<0) {
         n= n * (-1) ;
         
-       }
+       }    
        System.out.println("the absolute value is : " + n);
+       sc.close();
     }
 }
